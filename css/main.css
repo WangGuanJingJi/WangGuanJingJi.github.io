@@ -2466,7 +2466,7 @@ header.header {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #0ed57d;
+  background: #818390;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2513,11 +2513,20 @@ header.header {
 .fab {
   font-size: 24px;
 }
+@font-face {
+  font-family: 'LXGW WenKai GB';
+  src: url("https://wangguanjingji.oss-cn-beijing.aliyuncs.com/picture/LXGWWenKaiGBScreen.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/* 设置所有元素的字体，但排除 Font Awesome 中的元素 */
+* :not(i.fa):not(i.far):not(i.fas):not(i.fab):not(.fa):not(.far):not(.fas):not(.fab) {
+  font-family: 'LXGW WenKai GB', sans-serif !important;
+}
 body {
   background: var(--body-bg-color);
   box-sizing: border-box;
   color: var(--text-color);
-  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
   font-size: 13px;
   line-height: 2;
   min-height: 100%;
