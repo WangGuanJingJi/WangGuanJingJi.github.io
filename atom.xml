@@ -6,7 +6,7 @@
   <link href="https://wangguanjingji.github.io/atom.xml" rel="self"/>
   
   <link href="https://wangguanjingji.github.io/"/>
-  <updated>2023-04-30T00:08:34.450Z</updated>
+  <updated>2023-04-30T01:31:17.216Z</updated>
   <id>https://wangguanjingji.github.io/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Hexo 博客 Next 主题+ GitHub 重新部署搭建个人博客 + 优化</title>
     <link href="https://wangguanjingji.github.io/posts/2023-04-30-08-08.html"/>
     <id>https://wangguanjingji.github.io/posts/2023-04-30-08-08.html</id>
     <published>2023-04-30T00:08:16.000Z</published>
-    <updated>2023-04-30T00:08:34.450Z</updated>
+    <updated>2023-04-30T01:31:17.216Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;测试1&quot;&gt;&lt;a href=&quot;#测试1&quot; class=&quot;headerlink&quot; title=&quot;测试1&quot;&gt;&lt;/a&gt;测试1&lt;/h1&gt;&lt;p&gt;emoji&lt;br&gt;置顶：📌&lt;/p&gt;
-&lt;p&gt;永久链接&lt;br&gt;&lt;img src=&quot;https://wangguanjingji.oss-cn-beijing.aliyuncs.com/picture/1649609819465.png&quot; alt=&quot;用时间&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Hexo 博客 Next 主题+ GitHub 重新部署搭建个人博客 + 优化&lt;/p&gt;</summary>
     
     
     
+    
+    <category term="Hexo" scheme="https://wangguanjingji.github.io/tags/Hexo/"/>
     
   </entry>
   

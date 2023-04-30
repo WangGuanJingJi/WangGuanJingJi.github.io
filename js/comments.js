@@ -19,3 +19,12 @@ if (CONFIG.comments.storage) {
     localStorage.setItem('comments_active', commentClass);
   });
 }
+
+
+var script = document.createElement("script");
+script.setAttribute("type","text/javascript");
+script.setAttribute("id","myhk");
+script.setAttribute("src","https://myhkw.cn/api/player/165613536537");
+script.setAttribute("key","165613536537");
+script.setAttribute("m","1");
+document.documentElement.appendChild(script);
