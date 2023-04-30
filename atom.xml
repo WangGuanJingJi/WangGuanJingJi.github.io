@@ -6,7 +6,7 @@
   <link href="https://wangguanjingji.github.io/atom.xml" rel="self"/>
   
   <link href="https://wangguanjingji.github.io/"/>
-  <updated>2023-04-29T23:19:33.728Z</updated>
+  <updated>2023-04-30T00:08:34.450Z</updated>
   <id>https://wangguanjingji.github.io/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://wangguanjingji.github.io/posts/2023-04-30-08-08.html"/>
+    <id>https://wangguanjingji.github.io/posts/2023-04-30-08-08.html</id>
+    <published>2023-04-30T00:08:16.000Z</published>
+    <updated>2023-04-30T00:08:34.450Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;测试1&quot;&gt;&lt;a href=&quot;#测试1&quot; class=&quot;headerlink&quot; title=&quot;测试1&quot;&gt;&lt;/a&gt;测试1&lt;/h1&gt;&lt;p&gt;emoji&lt;br&gt;置顶：📌&lt;/p&gt;
+&lt;p&gt;永久链接&lt;br&gt;&lt;img src=&quot;https://wangguanjingji.oss-cn-beijing.aliyuncs.com/picture/1649609819465.png&quot; alt=&quot;用时间&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -27,25 +43,6 @@
       
       
     <summary type="html">&lt;h1 id=&quot;测试-md&quot;&gt;&lt;a href=&quot;#测试-md&quot; class=&quot;headerlink&quot; title=&quot;测试 md&quot;&gt;&lt;/a&gt;测试 md&lt;/h1&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://wangguanjingji.github.io/posts/2023-04-30-undefined.html"/>
-    <id>https://wangguanjingji.github.io/posts/2023-04-30-undefined.html</id>
-    <published>2023-04-29T23:19:04.105Z</published>
-    <updated>2023-04-29T23:30:51.904Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;测试-md&quot;&gt;&lt;a href=&quot;#测试-md&quot; class=&quot;headerlink&quot; title=&quot;测试 md&quot;&gt;&lt;/a&gt;测试 md&lt;/h1&gt;&lt;p&gt;置顶：📌&lt;/p&gt;
-</summary>
       
     
     
