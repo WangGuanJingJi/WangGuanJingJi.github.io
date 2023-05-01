@@ -87,6 +87,7 @@ function updateHTMl(data) {
     var hour = datetime.getHours();       //获取小时
     var minute = datetime.getMinutes();   //获取分钟
     var second = datetime.getSeconds();   //获取秒钟
+    
     var hour = String(datetime.getHours()).padStart(2, '0');       //获取小时，并在前面补充0
     var minute = String(datetime.getMinutes()).padStart(2, '0');   //获取分钟，并在前面补充0
     var second = String(datetime.getSeconds()).padStart(2, '0');   //获取秒钟，并在前面补充0

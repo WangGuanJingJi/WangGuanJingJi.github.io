@@ -2466,7 +2466,7 @@ header.header {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #a6ff47;
+  background: #d0ff78;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2651,7 +2651,6 @@ hr {
   border-bottom: 1px double transparent;
   background-color: #87ceeb;
   text-align: center;
-  margin: 60px 0;
   background-image: none;
 }
 hr:after {
