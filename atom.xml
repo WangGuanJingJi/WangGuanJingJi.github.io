@@ -33,4 +33,30 @@
     
   </entry>
   
+  <entry>
+    <title>Hexo 博客编年史</title>
+    <link href="https://wangguanjingji.github.io/posts/2002-01-01-00-00.html"/>
+    <id>https://wangguanjingji.github.io/posts/2002-01-01-00-00.html</id>
+    <published>2001-12-31T16:00:00.000Z</published>
+    <updated>2023-05-05T04:50:23.691Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;p&gt;Hexo 博客编年史&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;ul&gt;
+&lt;li&gt;2023-04-30 Hexo 博客 Next 主题+ GitHub 重新部署搭建个人博客 + 优化&lt;/li&gt;
+&lt;li&gt;2023-05-05 博客 </summary>
+      
+    
+    
+    
+    
+    <category term="Hexo" scheme="https://wangguanjingji.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
 </feed>
