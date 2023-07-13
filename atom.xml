@@ -6,7 +6,7 @@
   <link href="https://wangguanjingji.github.io/atom.xml" rel="self"/>
   
   <link href="https://wangguanjingji.github.io/"/>
-  <updated>2023-04-30T01:31:17.216Z</updated>
+  <updated>2023-07-13T14:43:51.702Z</updated>
   <id>https://wangguanjingji.github.io/</id>
   
   <author>
@@ -17,16 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>开始继续学习前端</title>
+    <link href="https://wangguanjingji.github.io/posts/2023-07-13-22-39.html"/>
+    <id>https://wangguanjingji.github.io/posts/2023-07-13-22-39.html</id>
+    <published>2023-07-13T14:39:18.000Z</published>
+    <updated>2023-07-13T14:43:51.702Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;开始学习！&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hexo 博客 Next 主题+ GitHub 重新部署搭建个人博客 + 优化</title>
     <link href="https://wangguanjingji.github.io/posts/2023-04-30-08-08.html"/>
     <id>https://wangguanjingji.github.io/posts/2023-04-30-08-08.html</id>
     <published>2023-04-30T00:08:16.000Z</published>
-    <updated>2023-04-30T01:31:17.216Z</updated>
+    <updated>2023-07-13T14:47:35.463Z</updated>
     
     
     <summary type="html">&lt;p&gt;Hexo 博客 Next 主题+ GitHub 重新部署搭建个人博客 + 优化&lt;/p&gt;</summary>
     
     
+    
+    <category term="Hexo" scheme="https://wangguanjingji.github.io/categories/Hexo/"/>
     
     
     <category term="Hexo" scheme="https://wangguanjingji.github.io/tags/Hexo/"/>
